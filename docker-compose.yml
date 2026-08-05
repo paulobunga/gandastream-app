@@ -1,0 +1,32 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./storage:/app/storage
+      - ./runs:/app/runs
+    environment:
+      - DATABASE_URL=sqlite:///./afridrama.db
+      - OMNIROUTE_BASE_URL=${OMNIROUTE_BASE_URL}
+      - OMNIROUTE_AUTH_TOKEN=${OMNIROUTE_AUTH_TOKEN}
+      - OMNIROUTE_MODEL=${OMNIROUTE_MODEL:-auto}
+      - TIKTOK_COOKIES_PATH=storage/cookies/tiktok_cookies.json
+      - STORAGE_DIR=storage
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  storage:
+  runs:

@@ -1,0 +1,1575 @@
+{
+  "run_id": "8d60ead0",
+  "created_at": "2026-08-05T23:03:23.243235",
+  "region": "Kenya",
+  "genre": "family_drama",
+  "accent": "Kenyan",
+  "language": "en",
+  "trends": [
+    {
+      "rank": 1,
+      "hook": "Mother-in-law secretly sells family land while son is abroad",
+      "target_emotion": "outrage",
+      "source_platform": "tiktok",
+      "source_signal": "12.4K views in 48h \u2014 #FamilyLandScandal",
+      "region": "Kenya",
+      "genre": "family_drama"
+    },
+    {
+      "rank": 2,
+      "hook": "Woman discovers her husband built a second family in the village",
+      "target_emotion": "betrayal",
+      "source_platform": "instagram",
+      "source_signal": "8.1K views in 24h \u2014 #VillageSecondWife",
+      "region": "Kenya",
+      "genre": "family_drama"
+    },
+    {
+      "rank": 3,
+      "hook": "Two sisters fight over one man at a wedding",
+      "target_emotion": "drama",
+      "source_platform": "youtube",
+      "source_signal": "22K views in 72h \u2014 #WeddingSistersClash",
+      "region": "Kenya",
+      "genre": "family_drama"
+    },
+    {
+      "rank": 4,
+      "hook": "Son returns from abroad to find his mother living on the streets",
+      "target_emotion": "guilt",
+      "source_platform": "tiktok",
+      "source_signal": "15K views in 36h \u2014 #ReturneeGuilt",
+      "region": "Kenya",
+      "genre": "family_drama"
+    },
+    {
+      "rank": 5,
+      "hook": "Choir mistress exposes pastor's secret affair during Sunday service",
+      "target_emotion": "shock",
+      "source_platform": "instagram",
+      "source_signal": "31K views in 48h \u2014 #ChoirExpose",
+      "region": "Kenya",
+      "genre": "family_drama"
+    }
+  ],
+  "chosen_trend": {
+    "rank": 1,
+    "hook": "Mother-in-law secretly sells family land while son is abroad",
+    "target_emotion": "outrage",
+    "source_platform": "tiktok",
+    "source_signal": "12.4K views in 48h \u2014 #FamilyLandScandal",
+    "region": "Kenya",
+    "genre": "family_drama"
+  },
+  "screenplay": {
+    "title": "The Land That Tore Us Apart",
+    "logline": "When Adaeze discovers her mother-in-law secretly sold the family land meant for her children's future, she must choose between justice and family peace.",
+    "characters": [
+      {
+        "id": "adaeze",
+        "name": "Adaeze",
+        "description": "Strong-willed 32-year-old market trader, fiercely protective of her children",
+        "appearance": {
+          "face": "round, warm dark skin, high cheekbones",
+          "hair": "shoulder-length box braids with burgundy highlights",
+          "eyes": "large, expressive"
+        },
+        "wardrobe": {
+          "top": " Ankara print blouse",
+          "bottom": "matching wrapper",
+          "accessories": "gold earrings, headtie"
+        },
+        "voice_accent": "Kenya"
+      },
+      {
+        "id": "mama_nneka",
+        "name": "Mama Nneka",
+        "description": "Respectable grandmother with a hidden calculating side, 68",
+        "appearance": {
+          "face": "oval, lighter skin tone with traditional tattoos",
+          "hair": "white gele headwrap, natural grey roots",
+          "eyes": "sharp, piercing"
+        },
+        "wardrobe": {
+          "top": "iro and buba lace set",
+          "bottom": "shoes",
+          "accessories": "beaded necklace, walking stick"
+        },
+        "voice_accent": "Kenya"
+      },
+      {
+        "id": "emeka",
+        "name": "Emeka",
+        "description": "Adaeze's husband, mild-mannered, caught between mother and wife",
+        "appearance": {
+          "face": "strong jaw, smooth dark skin",
+          "hair": "low fade, short",
+          "eyes": "kind, tired-looking"
+        },
+        "wardrobe": {
+          "top": "white kaftan",
+          "bottom": "sandals",
+          "accessories": "simple wristwatch"
+        },
+        "voice_accent": "Kenya"
+      }
+    ],
+    "scenes": [
+      {
+        "scene_number": 1,
+        "setting": "Adaeze's living room \u2014 Lagos afternoon, warm sunlight through curtains",
+        "characters_present": [
+          "adaeze",
+          "emeka"
+        ],
+        "action_summary": "Adaeze confronts Emeka about missing land documents. Tension rises.",
+        "dialogue": [
+          {
+            "character_id": "adaeze",
+            "character_name": "Adaeze",
+            "text": "Emeka, where are the land documents?",
+            "emotion": "anxious",
+            "line_number": 1
+          },
+          {
+            "character_id": "emeka",
+            "character_name": "Emeka",
+            "text": "I gave them to Mama Nneka last month.",
+            "emotion": "defensive",
+            "line_number": 2
+          },
+          {
+            "character_id": "adaeze",
+            "character_name": "Adaeze",
+            "text": "Your mother sold our land. I know it.",
+            "emotion": "angry",
+            "line_number": 3
+          }
+        ],
+        "estimated_duration_seconds": 15.0,
+        "image_prompts": null,
+        "video_prompts": null,
+        "voice_assignments": null
+      },
+      {
+        "scene_number": 2,
+        "setting": "Mama Nneka's bedroom \u2014 ornate, old photos on walls",
+        "characters_present": [
+          "mama_nneka"
+        ],
+        "action_summary": "Mama Nneka counts cash and hides the deed in a Bible.",
+        "dialogue": [
+          {
+            "character_id": "mama_nneka",
+            "character_name": "Mama Nneka",
+            "text": "For the family, I did what I had to do.",
+            "emotion": "resigned",
+            "line_number": 4
+          }
+        ],
+        "estimated_duration_seconds": 12.0,
+        "image_prompts": null,
+        "video_prompts": null,
+        "voice_assignments": null
+      },
+      {
+        "scene_number": 3,
+        "setting": "Community chief's palace \u2014 formal setting, elders present",
+        "characters_present": [
+          "adaeze",
+          "emeka",
+          "mama_nneka"
+        ],
+        "action_summary": "Family dispute brought before elders. Shocking revelation.",
+        "dialogue": [
+          {
+            "character_id": "adaeze",
+            "character_name": "Adaeze",
+            "text": "Mama sold our children's future for her brother.",
+            "emotion": "betrayed",
+            "line_number": 5
+          },
+          {
+            "character_id": "mama_nneka",
+            "character_name": "Mama Nneka",
+            "text": "He needed the money for his hospital bills.",
+            "emotion": "defensive",
+            "line_number": 6
+          },
+          {
+            "character_id": "emeka",
+            "character_name": "Emeka",
+            "text": "You both betrayed me \u2014 lying for months.",
+            "emotion": "hurt",
+            "line_number": 7
+          }
+        ],
+        "estimated_duration_seconds": 25.0,
+        "image_prompts": null,
+        "video_prompts": null,
+        "voice_assignments": null
+      },
+      {
+        "scene_number": 4,
+        "setting": "Outside the palace \u2014 twilight, birds settling in trees",
+        "characters_present": [
+          "adaeze",
+          "emeka"
+        ],
+        "action_summary": "Emeka and Adaeze reconcile with a plan to rebuild.",
+        "dialogue": [
+          {
+            "character_id": "emeka",
+            "character_name": "Emeka",
+            "text": "We will buy it back together.",
+            "emotion": "hopeful",
+            "line_number": 8
+          },
+          {
+            "character_id": "adaeze",
+            "character_name": "Adaeze",
+            "text": "Together. And this time, no secrets.",
+            "emotion": "determined",
+            "line_number": 9
+          }
+        ],
+        "estimated_duration_seconds": 18.0,
+        "image_prompts": null,
+        "video_prompts": null,
+        "voice_assignments": null
+      },
+      {
+        "scene_number": 5,
+        "setting": "Market \u2014 morning, bustling, hopeful music",
+        "characters_present": [
+          "adaeze"
+        ],
+        "action_summary": "Adaeze opens a new business stand \u2014 new beginning.",
+        "dialogue": [
+          {
+            "character_id": "adaeze",
+            "character_name": "Adaeze",
+            "text": "From the ashes of betrayal, we rise.",
+            "emotion": "resolute",
+            "line_number": 10
+          }
+        ],
+        "estimated_duration_seconds": 10.0,
+        "image_prompts": null,
+        "video_prompts": null,
+        "voice_assignments": null
+      }
+    ],
+    "total_estimated_duration": 80.0
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "setting": "Adaeze's living room \u2014 Lagos afternoon, warm sunlight through curtains",
+      "characters_present": [
+        "adaeze",
+        "emeka"
+      ],
+      "action_summary": "Adaeze confronts Emeka about missing land documents. Tension rises.",
+      "dialogue": [
+        {
+          "character_id": "adaeze",
+          "character_name": "Adaeze",
+          "text": "Emeka, where are the land documents?",
+          "emotion": "anxious",
+          "line_number": 1
+        },
+        {
+          "character_id": "emeka",
+          "character_name": "Emeka",
+          "text": "I gave them to Mama Nneka last month.",
+          "emotion": "defensive",
+          "line_number": 2
+        },
+        {
+          "character_id": "adaeze",
+          "character_name": "Adaeze",
+          "text": "Your mother sold our land. I know it.",
+          "emotion": "angry",
+          "line_number": 3
+        }
+      ],
+      "estimated_duration_seconds": 15.0,
+      "image_prompts": null,
+      "video_prompts": null,
+      "voice_assignments": null
+    },
+    {
+      "scene_number": 2,
+      "setting": "Mama Nneka's bedroom \u2014 ornate, old photos on walls",
+      "characters_present": [
+        "mama_nneka"
+      ],
+      "action_summary": "Mama Nneka counts cash and hides the deed in a Bible.",
+      "dialogue": [
+        {
+          "character_id": "mama_nneka",
+          "character_name": "Mama Nneka",
+          "text": "For the family, I did what I had to do.",
+          "emotion": "resigned",
+          "line_number": 4
+        }
+      ],
+      "estimated_duration_seconds": 12.0,
+      "image_prompts": null,
+      "video_prompts": null,
+      "voice_assignments": null
+    },
+    {
+      "scene_number": 3,
+      "setting": "Community chief's palace \u2014 formal setting, elders present",
+      "characters_present": [
+        "adaeze",
+        "emeka",
+        "mama_nneka"
+      ],
+      "action_summary": "Family dispute brought before elders. Shocking revelation.",
+      "dialogue": [
+        {
+          "character_id": "adaeze",
+          "character_name": "Adaeze",
+          "text": "Mama sold our children's future for her brother.",
+          "emotion": "betrayed",
+          "line_number": 5
+        },
+        {
+          "character_id": "mama_nneka",
+          "character_name": "Mama Nneka",
+          "text": "He needed the money for his hospital bills.",
+          "emotion": "defensive",
+          "line_number": 6
+        },
+        {
+          "character_id": "emeka",
+          "character_name": "Emeka",
+          "text": "You both betrayed me \u2014 lying for months.",
+          "emotion": "hurt",
+          "line_number": 7
+        }
+      ],
+      "estimated_duration_seconds": 25.0,
+      "image_prompts": null,
+      "video_prompts": null,
+      "voice_assignments": null
+    },
+    {
+      "scene_number": 4,
+      "setting": "Outside the palace \u2014 twilight, birds settling in trees",
+      "characters_present": [
+        "adaeze",
+        "emeka"
+      ],
+      "action_summary": "Emeka and Adaeze reconcile with a plan to rebuild.",
+      "dialogue": [
+        {
+          "character_id": "emeka",
+          "character_name": "Emeka",
+          "text": "We will buy it back together.",
+          "emotion": "hopeful",
+          "line_number": 8
+        },
+        {
+          "character_id": "adaeze",
+          "character_name": "Adaeze",
+          "text": "Together. And this time, no secrets.",
+          "emotion": "determined",
+          "line_number": 9
+        }
+      ],
+      "estimated_duration_seconds": 18.0,
+      "image_prompts": null,
+      "video_prompts": null,
+      "voice_assignments": null
+    },
+    {
+      "scene_number": 5,
+      "setting": "Market \u2014 morning, bustling, hopeful music",
+      "characters_present": [
+        "adaeze"
+      ],
+      "action_summary": "Adaeze opens a new business stand \u2014 new beginning.",
+      "dialogue": [
+        {
+          "character_id": "adaeze",
+          "character_name": "Adaeze",
+          "text": "From the ashes of betrayal, we rise.",
+          "emotion": "resolute",
+          "line_number": 10
+        }
+      ],
+      "estimated_duration_seconds": 10.0,
+      "image_prompts": null,
+      "video_prompts": null,
+      "voice_assignments": null
+    }
+  ],
+  "style_guide": {
+    "lighting": "warm golden hour, soft directional",
+    "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+    "aspect_ratio": "9:16",
+    "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+    "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+  },
+  "shot_prompts": [
+    {
+      "scene_number": 1,
+      "shot_number": 1,
+      "prompt": "Scene 1 Shot 1: Adaeze's living room \u2014 Lagos afternoon, warm sunlight through curtains. Characters: Adaeze, Emeka. Action: Adaeze confronts Emeka about missing land documents. Tension rises.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'} | Emeka: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 1,
+      "shot_number": 2,
+      "prompt": "Scene 1 Shot 2: Adaeze's living room \u2014 Lagos afternoon, warm sunlight through curtains. Characters: Adaeze, Emeka. Action: Adaeze confronts Emeka about missing land documents. Tension rises.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'} | Emeka: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "shot_number": 1,
+      "prompt": "Scene 2 Shot 1: Mama Nneka's bedroom \u2014 ornate, old photos on walls. Characters: Mama Nneka. Action: Mama Nneka counts cash and hides the deed in a Bible.. Character details: Mama Nneka: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "shot_number": 2,
+      "prompt": "Scene 2 Shot 2: Mama Nneka's bedroom \u2014 ornate, old photos on walls. Characters: Mama Nneka. Action: Mama Nneka counts cash and hides the deed in a Bible.. Character details: Mama Nneka: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "shot_number": 1,
+      "prompt": "Scene 3 Shot 1: Community chief's palace \u2014 formal setting, elders present. Characters: Adaeze, Emeka, Mama Nneka. Action: Family dispute brought before elders. Shocking revelation.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'} | Emeka: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'} | Mama Nneka: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "shot_number": 2,
+      "prompt": "Scene 3 Shot 2: Community chief's palace \u2014 formal setting, elders present. Characters: Adaeze, Emeka, Mama Nneka. Action: Family dispute brought before elders. Shocking revelation.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'} | Emeka: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'} | Mama Nneka: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 4,
+      "shot_number": 1,
+      "prompt": "Scene 4 Shot 1: Outside the palace \u2014 twilight, birds settling in trees. Characters: Adaeze, Emeka. Action: Emeka and Adaeze reconcile with a plan to rebuild.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'} | Emeka: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 4,
+      "shot_number": 2,
+      "prompt": "Scene 4 Shot 2: Outside the palace \u2014 twilight, birds settling in trees. Characters: Adaeze, Emeka. Action: Emeka and Adaeze reconcile with a plan to rebuild.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'} | Emeka: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 5,
+      "shot_number": 1,
+      "prompt": "Scene 5 Shot 1: Market \u2014 morning, bustling, hopeful music. Characters: Adaeze. Action: Adaeze opens a new business stand \u2014 new beginning.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    },
+    {
+      "scene_number": 5,
+      "shot_number": 2,
+      "prompt": "Scene 5 Shot 2: Market \u2014 morning, bustling, hopeful music. Characters: Adaeze. Action: Adaeze opens a new business stand \u2014 new beginning.. Character details: Adaeze: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}. Style: photorealistic African drama, cinematic, emotionally expressive faces, natural locations. Lighting: warm golden hour, soft directional. Color palette: earth tones \u2014 ochre, burnt sienna, deep green, gold.",
+      "style_guide": {
+        "lighting": "warm golden hour, soft directional",
+        "color_palette": "earth tones \u2014 ochre, burnt sienna, deep green, gold",
+        "aspect_ratio": "9:16",
+        "style_summary": "photorealistic African drama, cinematic, emotionally expressive faces, natural locations",
+        "negative_prompt": "deformed, blurry, westernized, cartoon, low quality, extra fingers"
+      },
+      "character_refs": [
+        {
+          "character_id": "adaeze",
+          "name": "Adaeze",
+          "appearance": {
+            "face": "round, warm dark skin, high cheekbones",
+            "hair": "shoulder-length box braids with burgundy highlights",
+            "eyes": "large, expressive"
+          },
+          "wardrobe": {
+            "top": " Ankara print blouse",
+            "bottom": "matching wrapper",
+            "accessories": "gold earrings, headtie"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+            "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+          ],
+          "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+        },
+        {
+          "character_id": "mama_nneka",
+          "name": "Mama Nneka",
+          "appearance": {
+            "face": "oval, lighter skin tone with traditional tattoos",
+            "hair": "white gele headwrap, natural grey roots",
+            "eyes": "sharp, piercing"
+          },
+          "wardrobe": {
+            "top": "iro and buba lace set",
+            "bottom": "shoes",
+            "accessories": "beaded necklace, walking stick"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+            "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+          ],
+          "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+        },
+        {
+          "character_id": "emeka",
+          "name": "Emeka",
+          "appearance": {
+            "face": "strong jaw, smooth dark skin",
+            "hair": "low fade, short",
+            "eyes": "kind, tired-looking"
+          },
+          "wardrobe": {
+            "top": "white kaftan",
+            "bottom": "sandals",
+            "accessories": "simple wristwatch"
+          },
+          "distinguishing_features": [
+            "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+            "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+          ],
+          "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+        }
+      ]
+    }
+  ],
+  "character_refs": [
+    {
+      "character_id": "adaeze",
+      "name": "Adaeze",
+      "appearance": {
+        "face": "round, warm dark skin, high cheekbones",
+        "hair": "shoulder-length box braids with burgundy highlights",
+        "eyes": "large, expressive"
+      },
+      "wardrobe": {
+        "top": " Ankara print blouse",
+        "bottom": "matching wrapper",
+        "accessories": "gold earrings, headtie"
+      },
+      "distinguishing_features": [
+        "Appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}",
+        "Wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}"
+      ],
+      "reference_prompt_suffix": "[Adaeze] consistent appearance: {'face': 'round, warm dark skin, high cheekbones', 'hair': 'shoulder-length box braids with burgundy highlights', 'eyes': 'large, expressive'}, wardrobe: {'top': ' Ankara print blouse', 'bottom': 'matching wrapper', 'accessories': 'gold earrings, headtie'}, accent: Kenya"
+    },
+    {
+      "character_id": "mama_nneka",
+      "name": "Mama Nneka",
+      "appearance": {
+        "face": "oval, lighter skin tone with traditional tattoos",
+        "hair": "white gele headwrap, natural grey roots",
+        "eyes": "sharp, piercing"
+      },
+      "wardrobe": {
+        "top": "iro and buba lace set",
+        "bottom": "shoes",
+        "accessories": "beaded necklace, walking stick"
+      },
+      "distinguishing_features": [
+        "Appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}",
+        "Wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}"
+      ],
+      "reference_prompt_suffix": "[Mama Nneka] consistent appearance: {'face': 'oval, lighter skin tone with traditional tattoos', 'hair': 'white gele headwrap, natural grey roots', 'eyes': 'sharp, piercing'}, wardrobe: {'top': 'iro and buba lace set', 'bottom': 'shoes', 'accessories': 'beaded necklace, walking stick'}, accent: Kenya"
+    },
+    {
+      "character_id": "emeka",
+      "name": "Emeka",
+      "appearance": {
+        "face": "strong jaw, smooth dark skin",
+        "hair": "low fade, short",
+        "eyes": "kind, tired-looking"
+      },
+      "wardrobe": {
+        "top": "white kaftan",
+        "bottom": "sandals",
+        "accessories": "simple wristwatch"
+      },
+      "distinguishing_features": [
+        "Appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}",
+        "Wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}"
+      ],
+      "reference_prompt_suffix": "[Emeka] consistent appearance: {'face': 'strong jaw, smooth dark skin', 'hair': 'low fade, short', 'eyes': 'kind, tired-looking'}, wardrobe: {'top': 'white kaftan', 'bottom': 'sandals', 'accessories': 'simple wristwatch'}, accent: Kenya"
+    }
+  ],
+  "video_prompts": [
+    {
+      "scene_number": 1,
+      "shot_number": 1,
+      "camera_movement": "slow push-in",
+      "motion_intensity": "medium",
+      "transition_in": "none",
+      "transition_out": "cut",
+      "duration_seconds": 7.5
+    },
+    {
+      "scene_number": 1,
+      "shot_number": 2,
+      "camera_movement": "pan across characters",
+      "motion_intensity": "medium",
+      "transition_in": "crossfade",
+      "transition_out": "cut",
+      "duration_seconds": 7.5
+    },
+    {
+      "scene_number": 2,
+      "shot_number": 1,
+      "camera_movement": "slow push-in",
+      "motion_intensity": "low",
+      "transition_in": "none",
+      "transition_out": "cut",
+      "duration_seconds": 6.0
+    },
+    {
+      "scene_number": 2,
+      "shot_number": 2,
+      "camera_movement": "pan across characters",
+      "motion_intensity": "low",
+      "transition_in": "crossfade",
+      "transition_out": "cut",
+      "duration_seconds": 6.0
+    },
+    {
+      "scene_number": 3,
+      "shot_number": 1,
+      "camera_movement": "slow push-in",
+      "motion_intensity": "medium",
+      "transition_in": "none",
+      "transition_out": "cut",
+      "duration_seconds": 12.5
+    },
+    {
+      "scene_number": 3,
+      "shot_number": 2,
+      "camera_movement": "pan across characters",
+      "motion_intensity": "medium",
+      "transition_in": "crossfade",
+      "transition_out": "cut",
+      "duration_seconds": 12.5
+    },
+    {
+      "scene_number": 4,
+      "shot_number": 1,
+      "camera_movement": "slow push-in",
+      "motion_intensity": "medium",
+      "transition_in": "none",
+      "transition_out": "cut",
+      "duration_seconds": 9.0
+    },
+    {
+      "scene_number": 4,
+      "shot_number": 2,
+      "camera_movement": "pan across characters",
+      "motion_intensity": "medium",
+      "transition_in": "crossfade",
+      "transition_out": "cut",
+      "duration_seconds": 9.0
+    },
+    {
+      "scene_number": 5,
+      "shot_number": 1,
+      "camera_movement": "slow push-in",
+      "motion_intensity": "medium",
+      "transition_in": "none",
+      "transition_out": "cut",
+      "duration_seconds": 5.0
+    },
+    {
+      "scene_number": 5,
+      "shot_number": 2,
+      "camera_movement": "pan across characters",
+      "motion_intensity": "medium",
+      "transition_in": "crossfade",
+      "transition_out": "cut",
+      "duration_seconds": 5.0
+    }
+  ],
+  "voice_assignments": [
+    {
+      "character_id": "adaeze",
+      "character_name": "Adaeze",
+      "emotion": "anxious",
+      "pacing": "natural conversational",
+      "tts_provider_hint": "mock_tts_default"
+    },
+    {
+      "character_id": "emeka",
+      "character_name": "Emeka",
+      "emotion": "defensive",
+      "pacing": "natural conversational",
+      "tts_provider_hint": "mock_tts_default"
+    },
+    {
+      "character_id": "mama_nneka",
+      "character_name": "Mama Nneka",
+      "emotion": "resigned",
+      "pacing": "natural conversational",
+      "tts_provider_hint": "mock_tts_default"
+    }
+  ],
+  "clips": [
+    {
+      "scene_number": 1,
+      "shot_number": 1,
+      "source_image_path": "runs/mock_renders/image_shot_1.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 1,
+      "shot_number": 2,
+      "source_image_path": "runs/mock_renders/image_shot_2.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 2,
+      "shot_number": 1,
+      "source_image_path": "runs/mock_renders/image_shot_1.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 2,
+      "shot_number": 2,
+      "source_image_path": "runs/mock_renders/image_shot_2.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 3,
+      "shot_number": 1,
+      "source_image_path": "runs/mock_renders/image_shot_1.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 3,
+      "shot_number": 2,
+      "source_image_path": "runs/mock_renders/image_shot_2.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 4,
+      "shot_number": 1,
+      "source_image_path": "runs/mock_renders/image_shot_1.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 4,
+      "shot_number": 2,
+      "source_image_path": "runs/mock_renders/image_shot_2.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 5,
+      "shot_number": 1,
+      "source_image_path": "runs/mock_renders/image_shot_1.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    },
+    {
+      "scene_number": 5,
+      "shot_number": 2,
+      "source_image_path": "runs/mock_renders/image_shot_2.png",
+      "generated_video_path": null,
+      "duration_seconds": null
+    }
+  ],
+  "timeline": [
+    {
+      "clip_id": "clip_001",
+      "order": 1,
+      "scene_number": 1,
+      "shot_number": 1,
+      "clip_path": null,
+      "duration_seconds": 7.5,
+      "transition_in": "none",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_002",
+      "order": 2,
+      "scene_number": 1,
+      "shot_number": 2,
+      "clip_path": null,
+      "duration_seconds": 7.5,
+      "transition_in": "crossfade",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_003",
+      "order": 3,
+      "scene_number": 2,
+      "shot_number": 1,
+      "clip_path": null,
+      "duration_seconds": 6.0,
+      "transition_in": "none",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_004",
+      "order": 4,
+      "scene_number": 2,
+      "shot_number": 2,
+      "clip_path": null,
+      "duration_seconds": 6.0,
+      "transition_in": "crossfade",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_005",
+      "order": 5,
+      "scene_number": 3,
+      "shot_number": 1,
+      "clip_path": null,
+      "duration_seconds": 12.5,
+      "transition_in": "none",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_006",
+      "order": 6,
+      "scene_number": 3,
+      "shot_number": 2,
+      "clip_path": null,
+      "duration_seconds": 12.5,
+      "transition_in": "crossfade",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_007",
+      "order": 7,
+      "scene_number": 4,
+      "shot_number": 1,
+      "clip_path": null,
+      "duration_seconds": 9.0,
+      "transition_in": "none",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_008",
+      "order": 8,
+      "scene_number": 4,
+      "shot_number": 2,
+      "clip_path": null,
+      "duration_seconds": 9.0,
+      "transition_in": "crossfade",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_009",
+      "order": 9,
+      "scene_number": 5,
+      "shot_number": 1,
+      "clip_path": null,
+      "duration_seconds": 5.0,
+      "transition_in": "none",
+      "transition_out": "cut"
+    },
+    {
+      "clip_id": "clip_010",
+      "order": 10,
+      "scene_number": 5,
+      "shot_number": 2,
+      "clip_path": null,
+      "duration_seconds": 5.0,
+      "transition_in": "crossfade",
+      "transition_out": "cut"
+    }
+  ],
+  "subtitles": [
+    {
+      "start_time": 0.0,
+      "end_time": 7.5,
+      "text": "Adaeze: Emeka, where are the land documents?",
+      "language": "en"
+    },
+    {
+      "start_time": 7.5,
+      "end_time": 15.0,
+      "text": "Adaeze: Emeka, where are the land documents?",
+      "language": "en"
+    },
+    {
+      "start_time": 15.0,
+      "end_time": 21.0,
+      "text": "Mama Nneka: For the family, I did what I had to do.",
+      "language": "en"
+    },
+    {
+      "start_time": 21.0,
+      "end_time": 27.0,
+      "text": "Mama Nneka: For the family, I did what I had to do.",
+      "language": "en"
+    },
+    {
+      "start_time": 27.0,
+      "end_time": 39.5,
+      "text": "Adaeze: Mama sold our children's future for her brother.",
+      "language": "en"
+    },
+    {
+      "start_time": 39.5,
+      "end_time": 52.0,
+      "text": "Adaeze: Mama sold our children's future for her brother.",
+      "language": "en"
+    },
+    {
+      "start_time": 52.0,
+      "end_time": 61.0,
+      "text": "Emeka: We will buy it back together.",
+      "language": "en"
+    },
+    {
+      "start_time": 61.0,
+      "end_time": 70.0,
+      "text": "Emeka: We will buy it back together.",
+      "language": "en"
+    },
+    {
+      "start_time": 70.0,
+      "end_time": 75.0,
+      "text": "Adaeze: From the ashes of betrayal, we rise.",
+      "language": "en"
+    },
+    {
+      "start_time": 75.0,
+      "end_time": 80.0,
+      "text": "Adaeze: From the ashes of betrayal, we rise.",
+      "language": "en"
+    }
+  ],
+  "posts": [
+    {
+      "platform": "tiktok",
+      "caption": "The Land That Tore Us Apart\n\nWhen Adaeze discovers her mother-in-law secretly sold the family land meant for her children's future, she must choose between justice and family peace.\n\n#AfricanDrama #ShortFilm #familydrama #Kenya",
+      "hashtags": [
+        "#KenyaDrama",
+        "#family_drama",
+        "#ShortDrama",
+        "#AfricanStories"
+      ],
+      "thumbnail_path": null
+    },
+    {
+      "platform": "youtube",
+      "caption": "The Land That Tore Us Apart\n\nWhen Adaeze discovers her mother-in-law secretly sold the family land meant for her children's future, she must choose between justice and family peace.\n\n#AfricanDrama #ShortFilm #familydrama #Kenya",
+      "hashtags": [
+        "#KenyaDrama",
+        "#family_drama",
+        "#ShortDrama",
+        "#AfricanStories"
+      ],
+      "thumbnail_path": null
+    },
+    {
+      "platform": "instagram",
+      "caption": "The Land That Tore Us Apart\n\nWhen Adaeze discovers her mother-in-law secretly sold the family land meant for her children's future, she must choose between justice and family peace.\n\n#AfricanDrama #ShortFilm #familydrama #Kenya",
+      "hashtags": [
+        "#KenyaDrama",
+        "#family_drama",
+        "#ShortDrama",
+        "#AfricanStories"
+      ],
+      "thumbnail_path": null
+    }
+  ]
+}
